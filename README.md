@@ -1,4 +1,4 @@
-# Bushfire-Simulation
+# Bushfire Simulation using Python
 A simulator of the bushfire spreading across a forest is created. The forest is represented as a square two-dimensional grid where each cell can be in one of three states:
 •	'F': A healthy tree
 •	'T': A tree on fire
